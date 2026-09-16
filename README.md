@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hi, I'm Mykhailo Rudovskyi
 
-<!--
-**MikaRudovskyi/MikaRudovskyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Full-Stack Engineer | 🛠️ Support Engineer | 📡 Telecom
 
-Here are some ideas to get you started:
+I am a **Full-Stack Engineer and Support Engineer** with experience in software development and telecommunications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build **production-ready web applications**, develop scalable solutions, and troubleshoot technical issues in live telecom environments.
+
+My main interests are **Backend Development, Full-Stack Engineering, Software Architecture, APIs, and Telecommunications**.
+
+---
+
+# 🧰 Tech Stack
+
+## 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,vite,tailwind,bootstrap,angular"/>
+</p>
+
+---
+
+## ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,php,laravel,cs,dotnet" />
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,sqlite" />
+</p>
+
+---
+
+## 🛠️ Tools & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,ps" />
+</p>
+
+---
+
+## 📡 Telecom & APIs
+
+<p>
+  <img src="https://img.shields.io/badge/SIP-005571?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RTP-005571?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SMPP-005571?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VoIP-005571?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" />
+</p>
