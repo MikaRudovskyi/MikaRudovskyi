@@ -39,7 +39,7 @@ My main interests are **Backend Development, Full-Stack Engineering, Software Ar
 ## 🛠️ Tools & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,ps" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,postman,vscode,ps" />
 </p>
 
 ---
